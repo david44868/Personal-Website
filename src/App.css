@@ -1,0 +1,11 @@
+#background {
+  flex: 1;
+  background-color: black
+}
+
+footer {
+  text-align: center;
+  bottom: 0;
+  margin: 25px;
+}
+
