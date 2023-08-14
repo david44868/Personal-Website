@@ -19,7 +19,7 @@ function Projects() {
                 <img className="proj" src="proj2.png"></img>
                 <div className="description">
                     <p className="title">Water Tracker</p>
-                    <p>Helps users to keep track of much water they're drinking daily</p>
+                    <p>Helps users to keep track of daily water consumption</p>
                     <a href="https://github.com/david44868/Daily-Water-Intake-Tracker"><FaGithub size="4em"/></a>
                 </div>
             </div>

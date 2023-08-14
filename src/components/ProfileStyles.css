@@ -16,9 +16,16 @@
     font-weight: bold;
     margin-bottom: 0;
 }
-#info h2 {
+#text h2 {
     font-family:'Courier New', Courier, monospace;
     padding: 10px;
+}
+
+#text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 #info #icons {
@@ -45,4 +52,33 @@
     height: 350px;
     border-radius: 350px;
     padding: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+    #info h1 {
+        font-size: 50px;
+    }
+    #info h2 {
+        font-size: 20px;
+    }
+    #info #icons {
+        size: 1em;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    #portrait {
+        width: 50%;
+        height: 50%;
+        padding: 20px;
+    }
+
+    #info h1 {
+        font-size: 30px;
+    }
+    #info h2 {
+        font-size: 15px;
+        padding: 0;
+    }
 }
