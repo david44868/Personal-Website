@@ -9,7 +9,7 @@ function Profile() {
                 <h2>Software Developer •</h2>
                 <h2>Computer Science Student</h2>
             </div>
-            <img id="portrait" src="photo.jpeg"></img>
+            <img id="portrait" src="photo.jpg"></img>
             <div id="icons">
                 <a href="https://github.com/david44868"><FaGithub size="4em"/></a>
                 <a href="https://www.linkedin.com/in/david-harianto-c0mp5c1/"><FaLinkedin size="4em"/></a>

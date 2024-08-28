@@ -18,17 +18,17 @@ function Projects() {
             <div className="project-card">
                 <img className="proj" src="proj2.png"></img>
                 <div className="description">
-                    <p className="title">Water Tracker</p>
-                    <p>Helps users to keep track of daily water consumption</p>
-                    <a href="https://github.com/david44868/Daily-Water-Intake-Tracker"><FaGithub size="4em"/></a>
+                    <p className="title">RU Living</p>
+                    <p>Helps simplify dormitory selection for Rutgers students</p>
+                    <a href="https://github.com/Jobansin/RU_Living"><FaGithub size="4em"/></a>
                 </div>
             </div>
             <div className="project-card">
                 <img className="proj" src="proj3.png"></img>
                 <div className="description">
-                    <p className="title">Hangman</p>
-                    <p>Worked in a team of 3 to create a web app of Hangman that includes different modes of play</p>
-                    <a href="https://github.com/gavsidhu/Hangman"><FaGithub size="4em"/></a>
+                    <p className="title">Quiz Quest</p>
+                    <p>A fun short quiz game that uses the echo3D API to show interactive 3D results.</p>
+                    <a href="https://github.com/echo3Dco/echo3D-Demo"><FaGithub size="4em"/></a>
                 </div>
             </div>
             <div className="project-card">

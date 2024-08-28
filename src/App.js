@@ -15,7 +15,7 @@ function App() {
         <Route path="/" element={<Profile />} />
         <Route path="/projects" element={<Projects />} />
       </Routes>
-      <footer>© 2023 David Harianto</footer>
+      <footer>© 2024 David Harianto</footer>
     </Router>
   );
 }
